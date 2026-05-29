@@ -1,4 +1,4 @@
-<img width="1965" height="1060" alt="image" src="https://github.com/user-attachments/assets/9923dae9-22ee-43de-b894-0bc52caec1f5" /># 📸 Smart Attendance System — Face Recognition Based
+# 📸 Smart Attendance System — Face Recognition Based
 
 An automated **Face Recognition Attendance System** built using **FastAPI** and **Streamlit**.
 The system captures student faces through a webcam, recognizes them in real time, and automatically marks attendance based on timetable sessions.
@@ -320,8 +320,7 @@ Students can view attendance percentage, total classes, and attendance history.
 ## 📷 Register Student
 
 Capture student face using webcam and store embeddings for recognition.
-
-<img width="2000" height="939" alt="image" src="https://github.com/user-attachments/assets/f7ebfc67-0fe3-4e06-9f26-be763f1f05cb" />
+<img width="1965" height="1060" alt="image" src="https://github.com/user-attachments/assets/9923dae9-22ee-43de-b894-0bc52caec1f5" />
 
 
 ---
