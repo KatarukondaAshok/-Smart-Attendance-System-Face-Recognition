@@ -279,6 +279,54 @@ http://localhost:8501
 
 ---
 
+# 📸 Screenshots
+
+## 🔄 System Workflow
+
+![System Workflow](images/workflow.png)
+
+---
+
+## 👨‍🏫 Teacher Dashboard
+
+View real-time attendance logs and manually override attendance when needed.
+
+![Teacher Dashboard](images/teacher_dashboard.png)
+
+---
+
+## 🛡️ Admin Dashboard
+
+Monitor attendance percentages, configure alert thresholds, and manage attendance analytics.
+
+![Admin Dashboard](images/admin_dashboard.png)
+
+---
+
+## 🎓 Student Portal
+
+Students can view attendance percentage, total classes, and attendance history.
+
+![Student Portal](images/student_portal.png)
+
+---
+
+## 📷 Register Student
+
+Capture student face using webcam and store embeddings for recognition.
+
+![Register Student](images/register_student.png)
+
+---
+
+## ✅ Mark Attendance
+
+Students can mark attendance through real-time face recognition.
+
+![Mark Attendance](images/mark_attendance.png)
+
+---
+
 # 🔒 Duplicate Prevention Logic
 
 The system prevents multiple attendance entries for the same student within the same session and day.
@@ -327,22 +375,6 @@ Students below the configured threshold are automatically flagged as defaulters.
 
 ---
 
-# 📸 Screenshots
-
-## Register Student
-
-*Add project screenshot here*
-
-## Mark Attendance
-
-*Add project screenshot here*
-
-## Teacher Dashboard
-
-*Add project screenshot here*
-
----
-
 # 🤝 Contributing
 
 Contributions are welcome.
@@ -371,7 +403,7 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-**Ashok Katarukonda**
+## Ashok Katarukonda
 
 * B.Tech Engineering Student
 * Passionate about AI, Computer Vision & Full Stack Development
