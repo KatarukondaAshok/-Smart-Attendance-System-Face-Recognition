@@ -1,4 +1,4 @@
-# 📸 Smart Attendance System — Face Recognition Based
+<img width="1965" height="1060" alt="image" src="https://github.com/user-attachments/assets/9923dae9-22ee-43de-b894-0bc52caec1f5" /># 📸 Smart Attendance System — Face Recognition Based
 
 An automated **Face Recognition Attendance System** built using **FastAPI** and **Streamlit**.
 The system captures student faces through a webcam, recognizes them in real time, and automatically marks attendance based on timetable sessions.
@@ -282,8 +282,9 @@ http://localhost:8501
 # 📸 Screenshots
 
 ## 🔄 System Workflow
+<img width="1701" height="957" alt="image" src="https://github.com/user-attachments/assets/c4e1ffe6-3384-47cc-a52d-76f0ed2a3f91" />
 
-![System Workflow](images/workflow.png)
+
 
 ---
 
@@ -291,7 +292,9 @@ http://localhost:8501
 
 View real-time attendance logs and manually override attendance when needed.
 
-![Teacher Dashboard](images/teacher_dashboard.png)
+<img width="1701" height="957" alt="image" src="https://github.com/user-attachments/assets/f7e4e32c-99c7-40a1-ac5e-0c9c6cb9e5aa" />
+
+
 
 ---
 
@@ -299,7 +302,8 @@ View real-time attendance logs and manually override attendance when needed.
 
 Monitor attendance percentages, configure alert thresholds, and manage attendance analytics.
 
-![Admin Dashboard](images/admin_dashboard.png)
+<img width="2081" height="1125" alt="image" src="https://github.com/user-attachments/assets/5fa8c6a2-ae97-4858-8dd1-55f4f1dfd26d" />
+
 
 ---
 
@@ -308,6 +312,8 @@ Monitor attendance percentages, configure alert thresholds, and manage attendanc
 Students can view attendance percentage, total classes, and attendance history.
 
 ![Student Portal](images/student_portal.png)
+<img width="2000" height="939" alt="image" src="https://github.com/user-attachments/assets/5b563996-41f1-47aa-aa11-d79299b31bbd" />
+
 
 ---
 
@@ -315,7 +321,8 @@ Students can view attendance percentage, total classes, and attendance history.
 
 Capture student face using webcam and store embeddings for recognition.
 
-![Register Student](images/register_student.png)
+<img width="2000" height="939" alt="image" src="https://github.com/user-attachments/assets/f7ebfc67-0fe3-4e06-9f26-be763f1f05cb" />
+
 
 ---
 
@@ -324,6 +331,8 @@ Capture student face using webcam and store embeddings for recognition.
 Students can mark attendance through real-time face recognition.
 
 ![Mark Attendance](images/mark_attendance.png)
+<img width="1921" height="1106" alt="image" src="https://github.com/user-attachments/assets/d85b12af-8171-46e7-81f7-94f148d26ce5" />
+
 
 ---
 
