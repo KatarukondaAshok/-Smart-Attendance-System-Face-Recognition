@@ -311,7 +311,6 @@ Monitor attendance percentages, configure alert thresholds, and manage attendanc
 
 Students can view attendance percentage, total classes, and attendance history.
 
-![Student Portal](images/student_portal.png)
 <img width="2000" height="939" alt="image" src="https://github.com/user-attachments/assets/5b563996-41f1-47aa-aa11-d79299b31bbd" />
 
 
